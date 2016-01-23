@@ -1,4 +1,6 @@
 # IAMS Definitions
+
+[![Join the chat at https://gitter.im/CC-IAMS/cc-iams-definitions](https://badges.gitter.im/CC-IAMS/cc-iams-definitions.svg)](https://gitter.im/CC-IAMS/cc-iams-definitions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This repository is created to attempt to store data about malicious ComputerCraft scripts. The goal is to hold the following:
 * Hashes of malicious scripts.
 * Hashes of Pastebin IDs of malicious scripts. (if applicable)
